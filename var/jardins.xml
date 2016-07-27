@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Carga xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Imoveis>
+    <Imovel>
+      <CodigoImovel>718516</CodigoImovel>
+      <TipoImovel>Apartamento</TipoImovel>
+      <SubTipoImovel>Apartamento Padrão</SubTipoImovel>
+      <CategoriaImovel>Padrão</CategoriaImovel>
+      <Cidade>São Paulo</Cidade>
+      <Bairro>Pinheiros</Bairro>
+      <Numero>680</Numero>
+      <Complemento>Bloco 1</Complemento>
+    </Imovel>
+  </Imoveis>
+</Carga>
