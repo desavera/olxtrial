@@ -52,7 +52,7 @@ if ( __name__ == "__main__"):
    Handler = SolutionHandler()
    parser.setContentHandler(Handler)
    
-   parser.parse("solution.xml")
+   parser.parse("http://ofertas.brbrokers.com.br/OLX/dff/sao_caetano_sul.xml")
 
    sorted_dict_campos = sorted(Handler.dict_campos.items(), key=operator.itemgetter(1),reverse=True)
 
